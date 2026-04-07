@@ -1,4 +1,4 @@
-# Ikigai Team — Review and Retrospective Schedule
+# Agora — Review and Retrospective Schedule
 
 ## Governance Review Cadence
 

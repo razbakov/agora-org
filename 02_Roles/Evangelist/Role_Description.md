@@ -7,7 +7,7 @@
 **Review date:** 2026-07-07
 
 ## Purpose
-Build awareness and drive adoption of Ikigai Team through compelling content, community engagement, and strategic outreach.
+Build awareness and drive adoption of Agora through compelling content, community engagement, and strategic outreach.
 
 ## Key Responsibilities
 - Create blog posts, tutorials, and explainer content

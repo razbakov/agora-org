@@ -4,7 +4,7 @@
 **Status:** Active
 
 ## Purpose
-Ensure the Ikigai Team framework remains open and accessible as public infrastructure.
+Ensure the Agora framework remains open and accessible as public infrastructure.
 
 ## Intended Outcome
 All core framework code and governance research are freely available. No one is locked into proprietary governance tools.

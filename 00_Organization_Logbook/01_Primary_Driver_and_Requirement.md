@@ -15,7 +15,7 @@ People delegate important life decisions — healthcare, education, finance, pol
 - The framework is open-source and accessible regardless of technical skill
 
 ### Enabling Conditions
-- A working prototype of value-aligned AI agents exists (the Ikigai Team setup flow: coaching -> OKRs -> delegation)
+- A working prototype of value-aligned AI agents exists (the Agora setup flow: coaching -> OKRs -> delegation)
 - The liquid democracy model (direct vote, delegate to human, delegate to agent) is implemented as a protocol
 - Identity and trust are grounded in real social graphs, not cryptographic proofs or government IDs
 - The system supports recursive delegation (person -> agent -> specialist -> their agent) with full transparency

@@ -5,8 +5,8 @@
 **Review date:** 2026-07-07
 
 ## Purpose
-**Primary Driver:** The Ikigai Team framework exists but has limited visibility. Without active growth efforts, adoption stays near zero and the liquid democracy vision cannot be validated with real users.
-**Main Requirement:** Build awareness and drive adoption so that 50+ users are running their own Ikigai Team by end of Phase 1.
+**Primary Driver:** The Agora framework exists but has limited visibility. Without active growth efforts, adoption stays near zero and the liquid democracy vision cannot be validated with real users.
+**Main Requirement:** Build awareness and drive adoption so that 50+ users are running their own Agora by end of Phase 1.
 
 ## Key Responsibilities
 - Create content that explains the vision (blog posts, videos, social media)

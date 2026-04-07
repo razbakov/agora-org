@@ -1,4 +1,4 @@
-# Ikigai Team
+# Agora
 
 Personal AI governance framework: 6 agents with coaching, OKRs, GTD, and S3 governance built in. Vision: personal governance layer for liquid democracy with trust circles and AI agent delegation.
 

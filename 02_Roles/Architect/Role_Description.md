@@ -7,7 +7,7 @@
 **Review date:** 2026-07-07
 
 ## Purpose
-Design the Ikigai Team framework architecture, define the delegation protocol, and ensure the product vision translates into coherent technical specifications.
+Design the Agora framework architecture, define the delegation protocol, and ensure the product vision translates into coherent technical specifications.
 
 ## Key Responsibilities
 - Define product requirements, user stories, and acceptance criteria

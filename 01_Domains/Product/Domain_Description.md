@@ -5,7 +5,7 @@
 **Review date:** 2026-07-07
 
 ## Purpose
-**Primary Driver:** The Ikigai Team framework needs a clear product vision, user journey, and feature roadmap that bridges personal AI governance with liquid democracy — without this, development drifts and users don't understand the value proposition.
+**Primary Driver:** The Agora framework needs a clear product vision, user journey, and feature roadmap that bridges personal AI governance with liquid democracy — without this, development drifts and users don't understand the value proposition.
 **Main Requirement:** Define and evolve the product so that users can install, configure, and benefit from a value-aligned AI team within 30 minutes of first contact.
 
 ## Key Responsibilities

@@ -1,4 +1,4 @@
-# Ikigai Team — Organization Canvas
+# Agora — Organization Canvas
 
 ## Purpose
 Enable individuals to build a personal AI governance team that represents their values in collective decision-making through liquid democracy and trust circles.
@@ -13,7 +13,7 @@ See `00_Organization_Logbook/03_Strategy.md`
 - **Stakeholders:** Anyone affected by decisions made through the platform (broader public as adoption grows)
 
 ## Business Model(s)
-- **Open-source framework** — the core Ikigai Team setup (agents, coaching, OKRs) is free and open-source
+- **Open-source framework** — the core Agora setup (agents, coaching, OKRs) is free and open-source
 - **Premium features** — hosted agent infrastructure, advanced delegation protocols, team/organization tiers
 - **Consulting/training** — helping organizations adopt the governance framework
 - Revenue model to be validated through experiments

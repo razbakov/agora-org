@@ -1,7 +1,7 @@
 # Synthesis: Three-Layer Governance Model
 
 **Date:** 2026-04-07
-**Sources:** Democracy Earth (The Social Smart Contract), Ikigai Team vision, Venus Project (The Best That Money Can't Buy by Jacque Fresco)
+**Sources:** Democracy Earth (The Social Smart Contract), Agora vision, Venus Project (The Best That Money Can't Buy by Jacque Fresco)
 
 ## The Core Tension
 
@@ -41,7 +41,7 @@ This is where liquid democracy + trust circles work:
 - Transparent, auditable, P2P voting (blockchain-like)
 - Vote as a universal right, not purchased
 
-### Layer 3: Personal Sovereignty (from Ikigai Team)
+### Layer 3: Personal Sovereignty (from Agora)
 Your AI team is your interface to both layers:
 - Sage calibrates your values through coaching and self-assessment
 - Your agents participate in Layer 2 governance on your behalf
@@ -55,7 +55,7 @@ Your AI team is your interface to both layers:
 |--------|------|-------|
 | **Venus Project** | Resource management by AI + sensors; elimination of profit motive; free access model (library); experimental cities for testing; machines manage resources NOT people; planned obsolescence elimination; education redesign | The idea that humans play NO role in decisions; the assumption that "common good" is self-evident; reliance on a single experimental city; dismissal of all democratic mechanisms |
 | **Democracy Earth** | Liquid democracy protocol; quadratic voting; transparent/auditable blockchain voting; vote as a universal right; open-source governance tools | Proof-of-identity via video (fragile); token economics (unnecessary complexity); the purely political framing (too narrow) |
-| **Ikigai Team** | Trust circles from real relationships; AI agents as personal governance layer; value-based clustering; gradual compliant transition; continuous small decisions; S3 governance structure | — (this is the glue that connects the other two) |
+| **Agora** | Trust circles from real relationships; AI agents as personal governance layer; value-based clustering; gradual compliant transition; continuous small decisions; S3 governance structure | — (this is the glue that connects the other two) |
 
 ## The Binding Value: Open Knowledge
 
@@ -78,12 +78,12 @@ Practical implication: Code is MIT, research and governance docs are CC BY 4.0, 
 
 He says "interdisciplinary teams" and "objective programming for common good" — but that's just a new technocratic elite with extra steps. Someone has to define the objective function.
 
-**Ikigai Team solves this**: The objective function comes FROM the people, via liquid democracy + AI agents, aggregated through trust circles and value-based clustering. The resource management AI doesn't decide values — it executes them.
+**Agora solves this**: The objective function comes FROM the people, via liquid democracy + AI agents, aggregated through trust circles and value-based clustering. The resource management AI doesn't decide values — it executes them.
 
 The flow:
 ```
 Individual values (Sage coaching / Level 10 Life)
-    → Personal AI agents (Ikigai Team)
+    → Personal AI agents (Agora)
         → Trust circles + liquid democracy (Democracy Earth protocol)
             → Aggregated value priorities
                 → Resource management AI (Venus Project model)
@@ -93,9 +93,9 @@ Individual values (Sage coaching / Level 10 Life)
 
 ## Transition Strategy (merged from all three)
 
-1. **Now (Phase 1)**: Ikigai Team as personal productivity tool — prove AI agents can be calibrated to individual values. 50+ users. (Ikigai Team)
+1. **Now (Phase 1)**: Agora as personal productivity tool — prove AI agents can be calibrated to individual values. 50+ users. (Agora)
 2. **Next (Phase 2)**: Trust circles — extend framework so users delegate specific decisions to trusted humans + their agents. (Democracy Earth protocol adaptation)
-3. **Then (Phase 3)**: Liquid democracy network — connect Ikigai Teams for collective value decisions. P2P, encrypted, verifiable voting. (Democracy Earth + Ikigai)
+3. **Then (Phase 3)**: Liquid democracy network — connect Agoras for collective value decisions. P2P, encrypted, verifiable voting. (Democracy Earth + Ikigai)
 4. **Parallel (Phase 4)**: Build resource monitoring experiments — Venus-style sensor networks in small communities. Open-source resource management AI. (Venus Project)
 5. **Converge (Phase 5)**: Connect governance layer (liquid democracy) to resource layer (AI allocation) in an experimental community. (All three)
 6. **Scale (Phase 6)**: Prove it works at small scale, let adoption drive transition. Build more experimental communities. (Venus Project transition model)
@@ -118,4 +118,4 @@ Key transition principle: Don't fight existing systems. Start compliant, prove t
 - Venus Project book: NotebookLM notebook `81e34baf-c563-4d81-a3fe-d` ("The Best That Money Can't Buy")
 - Sociocracy 3.0: NotebookLM notebook (check via `notebooklm list`)
 - Venus Project org: `~/Orgs/VenusProject/`
-- Ikigai Team org: `~/Orgs/IkigaiTeam/`
+- Agora org: `~/Orgs/Agora/`

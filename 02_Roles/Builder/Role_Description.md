@@ -7,7 +7,7 @@
 **Review date:** 2026-07-07
 
 ## Purpose
-Implement features, maintain the codebase, and ensure the Ikigai Team framework works reliably across environments.
+Implement features, maintain the codebase, and ensure the Agora framework works reliably across environments.
 
 ## Key Responsibilities
 - Implement features from Architect's specs

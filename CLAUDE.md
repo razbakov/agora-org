@@ -1,14 +1,14 @@
-# Ikigai Team — S3 Organization
+# Agora — S3 Organization
 
 Personal AI governance framework: 6 agents with coaching, OKRs, GTD, and S3 governance. Vision: personal governance layer for liquid democracy with trust circles and AI agent delegation.
 
 ## Primary driver
 
-People delegate important life decisions to strangers — politicians, algorithms, institutions — while AI assistants operate in isolation without governance frameworks. Ikigai Team bridges this gap: a personal AI team calibrated to your values that can participate in collective decision-making through liquid democracy.
+People delegate important life decisions to strangers — politicians, algorithms, institutions — while AI assistants operate in isolation without governance frameworks. Agora bridges this gap: a personal AI team calibrated to your values that can participate in collective decision-making through liquid democracy.
 
 ## Current strategy
 
-Phase 1: Prove the personal governance layer works. Get 50+ users running their own Ikigai Team. Validate that users actually delegate decisions to agents and that agents stay aligned with values over time. See `00_Organization_Logbook/03_Strategy.md`.
+Phase 1: Prove the personal governance layer works. Get 50+ users running their own Agora. Validate that users actually delegate decisions to agents and that agents stay aligned with values over time. See `00_Organization_Logbook/03_Strategy.md`.
 
 ## Structure
 

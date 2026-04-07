@@ -5,8 +5,8 @@
 **Review date:** 2026-07-07
 
 ## Purpose
-**Primary Driver:** The Ikigai Team framework needs reliable, well-tested code that users can install and run. The landing site, CLI setup flow, agent definitions, and video demos must work across environments.
-**Main Requirement:** Build and maintain the technical infrastructure so that users can install and run their Ikigai Team reliably.
+**Primary Driver:** The Agora framework needs reliable, well-tested code that users can install and run. The landing site, CLI setup flow, agent definitions, and video demos must work across environments.
+**Main Requirement:** Build and maintain the technical infrastructure so that users can install and run their Agora reliably.
 
 ## Key Responsibilities
 - Implement features from product specs (setup flow, agent system, delegation protocol)

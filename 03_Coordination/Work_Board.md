@@ -1,4 +1,4 @@
-# Ikigai Team — Work Board
+# Agora — Work Board
 
 ## Backlog
 

@@ -1,4 +1,4 @@
-# Ikigai Team — Values
+# Agora — Values
 
 ## Adopted S3 Principles
 

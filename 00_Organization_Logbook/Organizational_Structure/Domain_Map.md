@@ -1,4 +1,4 @@
-# Ikigai Team — Domain Map
+# Agora — Domain Map
 
 ## Organizational Structure
 
