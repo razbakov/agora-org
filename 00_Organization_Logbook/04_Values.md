@@ -15,7 +15,7 @@
 - **Personal Sovereignty** — Every individual retains ultimate control over their decisions. Delegation is always revocable. No system, agent, or delegate can override the individual's will.
 - **Trust Through Proximity** — Governance legitimacy comes from real relationships, not abstract representation. You delegate to people you know, not strangers.
 - **Value Alignment First** — AI agents must be grounded in the user's actual values (through coaching, assessment, and reflection) before they can act on anyone's behalf. Configuration before automation.
-- **Open by Default** — The framework, protocol, and research are open-source. Governance infrastructure should not be proprietary.
+- **Open Knowledge** — All systems must be understandable: how agents work, how resources are allocated, how votes are counted, how decisions are made. No closed systems, no black boxes. Code is open-source (MIT), research and governance docs are Creative Commons (CC BY 4.0), protocols are open standards. When there is no profit motive, there is no reason to keep secrets. This is non-negotiable — without radical transparency, the three-layer model collapses back into technocratic control.
 
 ---
 

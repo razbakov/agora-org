@@ -57,6 +57,21 @@ Your AI team is your interface to both layers:
 | **Democracy Earth** | Liquid democracy protocol; quadratic voting; transparent/auditable blockchain voting; vote as a universal right; open-source governance tools | Proof-of-identity via video (fragile); token economics (unnecessary complexity); the purely political framing (too narrow) |
 | **Ikigai Team** | Trust circles from real relationships; AI agents as personal governance layer; value-based clustering; gradual compliant transition; continuous small decisions; S3 governance structure | — (this is the glue that connects the other two) |
 
+## The Binding Value: Open Knowledge
+
+The single value that makes the three-layer model trustworthy is radical transparency:
+
+- **Layer 1 (Resource AI)**: If the allocation algorithms are a black box, you're back to technocratic control. All resource management code, sensor data, and allocation logic must be open-source and auditable by anyone.
+- **Layer 2 (Liquid Democracy)**: If the voting protocol is proprietary, you can't verify your delegation chain. Open standards, auditable blockchain, verifiable by any participant.
+- **Layer 3 (Personal Agents)**: If agent definitions are closed, you can't trust that your agent represents your values. All agent code, prompts, and decision logs must be inspectable.
+
+This aligns across all source systems:
+- **S3 principle**: "Record all valuable information and make it accessible to everyone"
+- **Venus Project**: "Without money, there is little to be gained by falsifying information" — transparency is the natural state when profit motive is removed
+- **Democracy Earth**: Open-source governance tools, auditable voting, transparent delegation
+
+Practical implication: Code is MIT, research and governance docs are CC BY 4.0, protocols are open standards. No exceptions. When there is no profit motive, there is no reason for closed systems.
+
 ## The Critical Insight
 
 **Fresco's biggest blind spot**: "Who programs the AI? Whose values does it optimize for?"
