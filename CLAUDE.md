@@ -8,31 +8,26 @@ People delegate important life decisions to strangers — politicians, algorithm
 
 ## Current strategy
 
-Phase 1: Prove the personal governance layer works. Get 50+ users running their own Agora. Validate that users actually delegate decisions to agents and that agents stay aligned with values over time. See `00_Organization_Logbook/03_Strategy.md`.
+Phase 1: Prove the personal governance layer works. Get 50+ users running their own Agora. Validate that users actually delegate decisions to agents and that agents stay aligned with values over time. See `organization/strategy.md`.
 
 ## Structure
 
-Preset: numbered
+Preset: kebab
 
-- Logbook: `00_Organization_Logbook/`
-- Primary driver: `00_Organization_Logbook/01_Primary_Driver_and_Requirement.md`
-- Organization canvas: `00_Organization_Logbook/02_Organization_Canvas.md`
-- Strategy: `00_Organization_Logbook/03_Strategy.md`
-- Values: `00_Organization_Logbook/04_Values.md`
-- Policies: `00_Organization_Logbook/Org_Wide_Policies/`
-- Requirements: `00_Organization_Logbook/Requirements_Mapping/`
-- Reviews: `00_Organization_Logbook/Reviews/`
-- Domain map: `00_Organization_Logbook/Organizational_Structure/Domain_Map.md`
-- Domains: `01_Domains/<Domain_Name>/`
-- Domain description: `01_Domains/<Domain_Name>/Domain_Description.md`
-- Domain governance backlog: `01_Domains/<Domain_Name>/Governance/Backlog/`
-- Domain operations backlog: `01_Domains/<Domain_Name>/Operations/Backlog/`
-- Domain metrics: `01_Domains/<Domain_Name>/Metrics/`
-- Roles: `02_Roles/<Role_Name>/`
-- Role description: `02_Roles/<Role_Name>/Role_Description.md`
-- Coordination: `03_Coordination/`
-- Work board: `03_Coordination/Work_Board.md`
-- Review schedule: `03_Coordination/Review_and_Retrospective_Schedule.md`
+- Organization: `organization/`
+- Primary driver: `organization/driver.md`
+- Organization canvas: `organization/canvas.md`
+- Strategy: `organization/strategy.md`
+- Values: `organization/values.md`
+- Policies: `organization/policies/`
+- Domain map: `organization/domain-map.md`
+- Domains: `domains/<domain-name>/`
+- Domain description: `domains/<domain-name>/index.md`
+- Roles: `roles/<role-name>/`
+- Role description: `roles/<role-name>/index.md`
+- Coordination: `coordination/`
+- Work board: `coordination/work-board.md`
+- Review schedule: `coordination/review-schedule.md`
 - Agents: `.claude/agents/`
 - Code repo: `~/Projects/ikigai-team/`
 - Website: ikigai.razbakov.com
@@ -56,7 +51,7 @@ Preset: numbered
 ## Conventions
 
 - Logbook is the source of truth for governance
-- Work board (`03_Coordination/Work_Board.md`) is the single source of truth for work status
+- Work board (`coordination/work-board.md`) is the single source of truth for work status
 - Pull system: agents pull from Ready when dispatched. WIP limit: 1 item per agent. No two agents modify the same files.
 - All agent work delivered via PRs to `~/Projects/ikigai-team/`
 - Requirements separate purpose (driver + requirement) from intervention (experiments)

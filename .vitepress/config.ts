@@ -14,7 +14,7 @@ export default defineConfig({
 
     nav: [
       { text: "Home", link: "/" },
-      { text: "Docs", link: "/00_Organization_Logbook/01_Primary_Driver_and_Requirement" },
+      { text: "Docs", link: "/organization/driver" },
       {
         text: "Blog Post",
         link: "https://razbakov.com/blog/2026-04-07-democracy-is-broken",
@@ -32,19 +32,19 @@ export default defineConfig({
         items: [
           {
             text: "Primary Driver & Requirement",
-            link: "/00_Organization_Logbook/01_Primary_Driver_and_Requirement",
+            link: "/organization/driver",
           },
           {
             text: "Organization Canvas",
-            link: "/00_Organization_Logbook/02_Organization_Canvas",
+            link: "/organization/canvas",
           },
           {
             text: "Strategy",
-            link: "/00_Organization_Logbook/03_Strategy",
+            link: "/organization/strategy",
           },
           {
             text: "Values",
-            link: "/00_Organization_Logbook/04_Values",
+            link: "/organization/values",
           },
           {
             text: "Policies",
@@ -52,21 +52,21 @@ export default defineConfig({
             items: [
               {
                 text: "AI Agent Boundaries",
-                link: "/00_Organization_Logbook/Org_Wide_Policies/Policy_001_AI_Agent_Boundaries",
+                link: "/organization/policies/ai-agent-boundaries",
               },
               {
                 text: "Decision Making",
-                link: "/00_Organization_Logbook/Org_Wide_Policies/Policy_002_Decision_Making",
+                link: "/organization/policies/decision-making",
               },
               {
                 text: "Open Source",
-                link: "/00_Organization_Logbook/Org_Wide_Policies/Policy_003_Open_Source",
+                link: "/organization/policies/open-source",
               },
             ],
           },
           {
             text: "Domain Map",
-            link: "/00_Organization_Logbook/Organizational_Structure/Domain_Map",
+            link: "/organization/domain-map",
           },
         ],
       },
@@ -76,23 +76,23 @@ export default defineConfig({
         items: [
           {
             text: "Engineering",
-            link: "/01_Domains/Engineering/Domain_Description",
+            link: "/domains/engineering/",
           },
           {
             text: "Growth",
-            link: "/01_Domains/Growth/Domain_Description",
+            link: "/domains/growth/",
           },
           {
             text: "Product",
-            link: "/01_Domains/Product/Domain_Description",
+            link: "/domains/product/",
           },
           {
             text: "Research",
-            link: "/01_Domains/Research/Domain_Description",
+            link: "/domains/research/",
           },
           {
             text: "Three-Layer Governance Model",
-            link: "/01_Domains/Research/Operations/synthesis-three-layer-governance-model",
+            link: "/domains/research/three-layer-model",
           },
         ],
       },
@@ -102,23 +102,23 @@ export default defineConfig({
         items: [
           {
             text: "Architect",
-            link: "/02_Roles/Architect/Role_Description",
+            link: "/roles/architect/",
           },
           {
             text: "Builder",
-            link: "/02_Roles/Builder/Role_Description",
+            link: "/roles/builder/",
           },
           {
             text: "Coordinator",
-            link: "/02_Roles/Coordinator/Role_Description",
+            link: "/roles/coordinator/",
           },
           {
             text: "Evangelist",
-            link: "/02_Roles/Evangelist/Role_Description",
+            link: "/roles/evangelist/",
           },
           {
             text: "Researcher",
-            link: "/02_Roles/Researcher/Role_Description",
+            link: "/roles/researcher/",
           },
         ],
       },
@@ -128,11 +128,11 @@ export default defineConfig({
         items: [
           {
             text: "Review Schedule",
-            link: "/03_Coordination/Review_and_Retrospective_Schedule",
+            link: "/coordination/review-schedule",
           },
           {
             text: "Work Board",
-            link: "/03_Coordination/Work_Board",
+            link: "/coordination/work-board",
           },
         ],
       },
