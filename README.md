@@ -14,6 +14,7 @@ Personal AI governance framework: 6 agents with coaching, OKRs, GTD, and S3 gove
 
 ## Links
 
-- Website: ikigai.razbakov.com
-- Code: `~/Projects/ikigai-team/`
+- Website: https://agora.razbakov.com
+- Website code: `~/Projects/agora`
+- Ikigai Team (personal governance layer): https://ikigai.razbakov.com (`~/Projects/ikigai-team`)
 - Governance: this repository (S3)
