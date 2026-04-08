@@ -1,0 +1,26 @@
+{
+  "name": "agora",
+  "version": "1.0.0",
+  "description": "Personal AI governance framework: 6 agents with coaching, OKRs, GTD, and S3 governance built in. Vision: personal governance layer for liquid democracy with trust circles and AI agent delegation.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razbakov/agora-org.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/razbakov/agora-org/issues"
+  },
+  "homepage": "https://github.com/razbakov/agora-org#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
