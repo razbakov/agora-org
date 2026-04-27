@@ -1,5 +1,11 @@
 # Agora — S3 Organization
 
+## Framework
+
+@/Users/razbakov/Projects/ikigai-team/CLAUDE.md
+
+---
+
 Personal AI governance framework: 6 agents with coaching, OKRs, GTD, and S3 governance. Vision: personal governance layer for liquid democracy with trust circles and AI agent delegation.
 
 ## Primary driver
