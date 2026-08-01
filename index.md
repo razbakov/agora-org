@@ -11,7 +11,7 @@ hero:
       link: https://razbakov.com/blog/2026-04-07-democracy-is-broken
     - theme: alt
       text: Browse the Docs
-      link: /00_Organization_Logbook/01_Primary_Driver_and_Requirement
+      link: /organization/driver.html
 
 features:
   - title: Machines handle logistics
