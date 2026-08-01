@@ -2,12 +2,11 @@
 layout: home
 
 hero:
-  name: "Agora"
   text: "A world where people are self-governing, self-sufficient, and self-actualizing."
-  tagline: "Communities govern themselves through liquid democracy, AI handles the logistics that sustain them, and every person keeps the final say over their own life."
+  tagline: "Technology in service of life, not against it — homes, energy, and food woven into the landscape rather than bulldozed over it, run by systems the community directs. A resource-based economy where machines handle the how, so people are free to decide the what."
   image:
-    src: /hero.png
-    alt: "A civic emblem — the individual at the centre of concentric rings of people and machines"
+    src: /nature-tech.png
+    alt: "A sustainable habitat where architecture and technology live in harmony with nature"
   actions:
     - theme: brand
       text: Browse the Docs
@@ -30,12 +29,6 @@ features:
   - title: Prove it or drop it
     details: "Every phase tests a hypothesis. If people don't actually delegate to their agents, the later phases don't make sense."
 ---
-
-## The world this builds toward
-
-Technology in service of life, not against it — homes, energy, and food woven into the landscape rather than bulldozed over it, run by systems the community directs. A resource-based economy where machines handle the _how_, so people are free to decide the _what_.
-
-![A sustainable habitat where architecture and technology live in harmony with nature — domed buildings among forests, with solar and wind woven through green public commons](/nature-tech.png)
 
 ## Where we are now
 
