@@ -31,6 +31,12 @@ features:
     details: "Every phase tests a hypothesis. If people don't actually delegate to their agents, the later phases don't make sense."
 ---
 
+## The world this builds toward
+
+Technology in service of life, not against it — homes, energy, and food woven into the landscape rather than bulldozed over it, run by systems the community directs. A resource-based economy where machines handle the _how_, so people are free to decide the _what_.
+
+![A sustainable habitat where architecture and technology live in harmony with nature — domed buildings among forests, with solar and wind woven through green public commons](/nature-tech.png)
+
 ## Where we are now
 
 **Phase 1: Can a personal AI team actually represent your values?**

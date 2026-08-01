@@ -131,6 +131,13 @@ em { color: var(--agora-bronze); }
 .VPFeature:hover { border-color: var(--agora-teal); transform: translateY(-2px); }
 .VPFeature .title { font-weight: 600; font-size: 1.1rem; }
 
+/* ---- doc/home images ---- */
+.vp-doc img {
+  border-radius: 16px;
+  border: 1px solid var(--vp-c-border);
+  box-shadow: 0 10px 26px rgba(36, 31, 24, 0.06);
+}
+
 /* ---- doc content ---- */
 .vp-doc a { font-weight: 500; text-underline-offset: 3px; }
 .vp-doc blockquote {
