@@ -3,15 +3,15 @@ layout: home
 
 hero:
   name: "Agora"
-  text: "What if you could delegate your vote to people you actually trust?"
-  tagline: "Your doctor for healthcare. Your engineer for infrastructure. Your teacher for education. And AI that keeps it all aligned with what you actually care about."
+  text: "A world where people are self-governing, self-sufficient, and self-actualizing."
+  tagline: "Communities govern themselves through liquid democracy, AI handles the logistics that sustain them, and every person keeps the final say over their own life."
   actions:
     - theme: brand
-      text: Read the Manifesto
-      link: https://razbakov.com/blog/2026-04-07-democracy-is-broken
-    - theme: alt
       text: Browse the Docs
       link: /organization/driver.html
+    - theme: alt
+      text: Read the Manifesto
+      link: https://razbakov.com/blog/2026-04-07-democracy-is-broken
 
 features:
   - title: Machines handle logistics
