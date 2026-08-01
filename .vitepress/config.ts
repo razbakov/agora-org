@@ -158,7 +158,7 @@ export default defineConfig({
     footer: {
       message: "Code: MIT License | Research & Docs: CC BY 4.0",
       copyright:
-        'An open-source research project by <a href="https://razbakov.com">Alex Razbakov</a>',
+        'An open-source research project by <a href="https://razbakov.com">Alösha</a>',
     },
   },
 

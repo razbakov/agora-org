@@ -71,15 +71,24 @@ h1, h2, h3, h4,
 em { color: var(--agora-bronze); }
 
 /* ---- header / nav ---- */
-.VPNav { background: transparent; }
-.VPNavBar { border-bottom: 1px solid var(--vp-c-divider) !important; }
-.VPNavBar.has-sidebar .content { background: transparent; }
+/* solid marble bar always (VitePress makes it transparent at the top by
+   default, which let the enlarged hero image bleed up behind it) */
+.VPNavBar,
+.VPNavBar.top {
+  background-color: var(--vp-c-bg) !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+.VPNavBar .content-body,
+.VPNavBar.top .content-body,
+.VPNavBar.has-sidebar .content { background: transparent !important; }
 .VPNavBarTitle .title {
   font-family: var(--agora-serif);
   font-weight: 900;
   letter-spacing: -0.01em;
 }
 .VPNavBarMenuLink { font-weight: 600; }
+/* breathing room so the hero starts clearly below the bar */
+.VPHero { padding-top: 2rem; }
 
 /* ---- sidebar: civic logbook ---- */
 .VPSidebar { background: var(--vp-c-bg) !important; }
@@ -110,14 +119,77 @@ em { color: var(--agora-bronze); }
   max-width: 40ch;
 }
 
-/* ---- hero image (civic emblem) ---- */
-.VPHero .image-bg { display: none; } /* drop default purple glow */
+/* ---- hero image (landscape) ---- */
+.VPHero .image-bg { display: none; } /* drop default glow */
+.VPHero .image { margin-bottom: 1.5rem; }
+/* let the enlarged image flow normally so the headline never overlaps it */
+.VPHero .image-container {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  transform: none;
+}
 .VPHero .image-src {
+  position: static;
+  transform: none;
+  display: block;
+  margin: 0 auto;
   border-radius: 22px;
   border: 1px solid var(--vp-c-border);
   background: var(--agora-paper);
-  box-shadow: 0 1px 0 #241f180a, 0 14px 34px rgba(36, 31, 24, 0.09);
+  box-shadow: 0 1px 0 #241f180a, 0 16px 40px rgba(36, 31, 24, 0.1);
+  width: min(680px, 92vw);
   max-width: 100%;
+  max-height: none;
+}
+@media (min-width: 960px) {
+  .VPHero .image-src { width: min(620px, 46vw); }
+}
+
+/* ---- roadmap phase list ---- */
+.vp-doc .phases { display: flex; flex-direction: column; gap: 1rem; margin-top: 1.75rem; }
+.vp-doc .phase {
+  background: var(--agora-paper);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 16px;
+  padding: 1.5rem 1.75rem;
+  box-shadow: 0 1px 0 #241f180a, 0 8px 22px rgba(36, 31, 24, 0.04);
+}
+.vp-doc .phase.now {
+  border-color: var(--agora-teal);
+  box-shadow: 0 0 0 1px var(--agora-teal), 0 12px 28px rgba(21, 112, 106, 0.1);
+}
+.vp-doc .phase .ph-status {
+  display: inline-block;
+  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--agora-bronze); margin-bottom: 0.5rem;
+}
+.vp-doc .phase.now .ph-status { color: var(--agora-teal); }
+.vp-doc .phase h3 {
+  font-family: var(--agora-serif); font-size: 1.15rem; font-weight: 600;
+  margin: 0 0 0.4rem; padding-top: 0; border-top: none;
+}
+.vp-doc .phase p { color: var(--agora-ink-2); font-size: 0.96rem; margin: 0; }
+.vp-doc .phase .cta { margin-top: 1rem; }
+
+/* ---- prominent single CTA (Phase 1) ---- */
+.vp-doc a.cta {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.85rem 1.8rem;
+  border-radius: 999px;
+  background: var(--agora-teal);
+  color: #fff !important;
+  font-weight: 700;
+  font-size: 1.02rem;
+  text-decoration: none;
+  box-shadow: 0 6px 20px rgba(21, 112, 106, 0.28);
+  transition: transform 0.15s, background 0.2s, box-shadow 0.2s;
+}
+.vp-doc a.cta:hover {
+  background: var(--agora-teal-2);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 26px rgba(21, 112, 106, 0.34);
 }
 
 /* ---- feature cards ---- */

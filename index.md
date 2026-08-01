@@ -30,10 +30,35 @@ features:
     details: "Every phase tests a hypothesis. If people don't actually delegate to their agents, the later phases don't make sense."
 ---
 
-## Where we are now
+## The roadmap
 
-**Phase 1: Can a personal AI team actually represent your values?**
+Each phase validates a hypothesis before the next begins. If people won't delegate to their own agents, the later layers don't make sense — so we prove the foundation first.
 
-Before connecting people into networks, we need to prove the foundation works. Ikigai Team is a personal AI system with six agents calibrated to your values through coaching. It manages your day, tracks your goals, and makes decisions the way you would. That is the governance prototype.
+<div class="phases">
 
-[See Ikigai Team](https://ikigai.razbakov.com) | [GitHub](https://github.com/razbakov/agora-org) | [Read the essay](https://razbakov.com/blog/2026-04-07-democracy-is-broken)
+<div class="phase now">
+<span class="ph-status">Now</span>
+<h3>Phase 1 — Personal governance</h3>
+<p>Prove a personal AI team can represent your values. Ikigai Team is six agents calibrated to you through coaching — it runs the day, tracks the goals, and decides the way you would. Agora's first governance layer, already in use.</p>
+<a href="https://ikigai.razbakov.com" class="cta">See Ikigai Team →</a>
+</div>
+
+<div class="phase">
+<span class="ph-status">Next</span>
+<h3>Phase 2 — Trust circles</h3>
+<p>Delegate specific decisions to trusted people in your circle — a friend who's a doctor for health, an engineer for infrastructure. Delegation is always revocable.</p>
+</div>
+
+<div class="phase">
+<span class="ph-status">Then</span>
+<h3>Phase 3 — Liquid democracy network</h3>
+<p>Connect Agoras so a community can make collective decisions through recursive, revocable delegation — P2P, encrypted, verifiable voting.</p>
+</div>
+
+<div class="phase">
+<span class="ph-status">Later</span>
+<h3>Phase 4 — The resource layer</h3>
+<p>Weave in open, community-directed resource management — machines handling logistics, in harmony with nature. The world pictured above.</p>
+</div>
+
+</div>
