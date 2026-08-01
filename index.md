@@ -5,6 +5,9 @@ hero:
   name: "Agora"
   text: "A world where people are self-governing, self-sufficient, and self-actualizing."
   tagline: "Communities govern themselves through liquid democracy, AI handles the logistics that sustain them, and every person keeps the final say over their own life."
+  image:
+    src: /hero.png
+    alt: "A civic emblem — the individual at the centre of concentric rings of people and machines"
   actions:
     - theme: brand
       text: Browse the Docs

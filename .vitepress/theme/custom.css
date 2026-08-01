@@ -110,6 +110,16 @@ em { color: var(--agora-bronze); }
   max-width: 40ch;
 }
 
+/* ---- hero image (civic emblem) ---- */
+.VPHero .image-bg { display: none; } /* drop default purple glow */
+.VPHero .image-src {
+  border-radius: 22px;
+  border: 1px solid var(--vp-c-border);
+  background: var(--agora-paper);
+  box-shadow: 0 1px 0 #241f180a, 0 14px 34px rgba(36, 31, 24, 0.09);
+  max-width: 100%;
+}
+
 /* ---- feature cards ---- */
 .VPFeature {
   background: var(--agora-paper);
